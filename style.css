@@ -1,0 +1,155 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: #F0F2F5;
+    padding-top: 92px;
+}
+
+#container {
+    width: 980px;
+    height: 496px;
+    margin: auto;
+    display: flex;
+}
+
+#box1 {
+    width: 536px;
+    height: 496px;
+
+}
+
+h2 {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+}
+
+p {
+    color: #606770;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+
+
+#box2 {
+    width: 396px;
+    height: 496px;
+
+}
+
+.box-input {
+    width: 396px;
+    height: 315.828px;
+    padding: 10px 0px 24px 0px;
+    margin-top: 40px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+
+}
+
+#box-input-login {
+    width: 364px;
+    height: 52px;
+    padding: 6px 0px 6px 0px;
+    margin: auto;
+    display: block;
+}
+
+.input-login {
+    width: 330px;
+    height: 22px;
+    padding: 14px 16px;
+    border: 1px solid rgba(0, 0, 0, 0.185);
+    margin-bottom: 10px;
+    display: block;
+    border-radius: 6px;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.botao-login {
+    width: 364px;
+    height: 52px;
+    border-radius: 7px;
+    border: 0px;
+    background-color: #1877F2;
+    color: white;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.link {
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 130px;
+}
+
+hr {
+    margin-top: 10px;
+}
+
+.botao-criar {
+    background-color: #36A420;
+    width: 150px;
+    height: 50px;
+    margin-left: 110px;
+    border-radius: 6px;
+    margin-top: 20px;
+    border: 0px;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+#box-img-login {
+    display: flex;
+}
+
+.borda {
+    width: 160px;
+    height: 200px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+
+}
+
+.img-login {
+    border-radius: 10px 10px 0px 0px;
+    width: 160px;
+    height: 160px;
+}
+
+.username, .adduser {
+    margin: 0px;
+    display: block;
+    width: 160px;
+    height: 24px;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+
+#box3 > h2 {
+    font-size: 14px;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    text-align: center;
+    line-height: 20px;
+}
+
+a {
+    list-style: none;
+    font-weight: bold;
+     color: black;
+}
